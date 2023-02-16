@@ -9,3 +9,10 @@ Tienda:
 
 Producto:
     *Precio
+###############################################################################################################################################
+Pasos para subir a Git Hub:
+
+1. git status -> Para visualizar los cambios realizados
+2. git add . -> Para pasar los cambios a staging area
+3. git commit -m "message" -> Para guardar los cambios en paquetico en el repo(repository) local
+4. git push -> Para enviar los cambios al repositorio remoto (Git Hub)
