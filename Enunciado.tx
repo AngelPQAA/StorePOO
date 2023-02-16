@@ -1,0 +1,11 @@
+Crear una tienda que permita agregar
+eliminar y ver los productos de la tienda
+Tienda:
+    *Nombre
+    *lista de producto
+    -Agregar producto
+    -Eliminar producto
+    -Ver productos
+
+Producto:
+    *Precio
